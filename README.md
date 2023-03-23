@@ -1,6 +1,6 @@
 # Test-Plan
 <h1 align="center">Hi 👋, I'm Isaac Appiah Donkor</h1>
-<h3 align="center">A passionate Software Tester and Cybersecurity Professional in Ghana.</h3>
+<h3 align="center">A passionate Software Tester and Cybersecurity Professional.</h3>
 
 - 🌱 I’m currently learning **Software Testing (Manual)**
 
